@@ -319,7 +319,7 @@ h1{
 .searchbuttoni{
     width: 70px;
     height: 30px;
-    background-color: orangered;
+    background-color: #c3c3c3c3;
     border-radius: 20px;
     position: absolute;
     display: flex;
@@ -512,16 +512,16 @@ h1{
 .questionone{
     text-align:justify;
     /* width: 400px; */
-    width: 320px;
-    margin: 50% auto;
+    width: 260px;
+    margin: 100% auto;
     color: #ffffff;
     font-size: 30px;
 }
 .questiononeanswer{
     text-align:justify;
     /* width: 500px; */
-    width: 400px;
-    margin: 50% auto;
+    width: 260px;
+    margin: 80% auto;
     color: #ffffff;
     font-size: 20px;
 }
@@ -570,7 +570,7 @@ h1{
     flex-wrap: wrap;
 }
 .chamonatvalisinner{
-    width: 200px;
+    width: 226px;
     height: 350px;
     /* overflow: hidden; */
     /* width: 350px; */
@@ -644,8 +644,9 @@ h1{
     margin-bottom: 20px; */
 }
 .maxmin input{
-    width: 70px;
-    height: 50px;
+    width: 60px;
+    height: 30px;
+    font-size: 8px;
     padding: 10px;
     border: none;
     border-radius: 150px;
@@ -665,7 +666,7 @@ h1{
 }
 .innerferi{
     width: 25px;
-    height: 35px;
+    height: 25px;
     border-radius: 50%;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -676,7 +677,7 @@ h1{
 }
 .innerferi p{
     font-size: 20px;
-    margin: 2px auto;
+    margin: 0px auto;
     color: #ffffff;
 }
 .innerferia{
@@ -708,14 +709,14 @@ h1{
     height: 30px;
 }
 .searchi{
-    height: 40px;
+    height: 30px;
     display: flex;
     position: relative;
     border-bottom: none;
 }
 .searchbuttoni{
-    width: 70px;
-    height: 30px;
+    width: 50px;
+    height: 20px;
     background-color: orangered;
     border-radius: 20px;
     position: absolute;
@@ -726,6 +727,7 @@ h1{
 .fa-magnifying-glass{
     align-self: center;
     margin: 0 auto;
+    font-size: 15px;
 }
 .footing{
     width: 1000px;
@@ -924,7 +926,7 @@ h1{
     .questionone{
         text-align:justify;
         /* width: 400px; */
-        width: 120px;
+        width: 100px;
         margin: 80px auto;
         color: #ffffff;
         font-size: 10px;
@@ -932,10 +934,10 @@ h1{
     .questiononeanswer{
         text-align:justify;
         /* width: 500px; */
-        width: 120px;
-        margin: 50% auto;
+        width: 100px;
+        margin: 30% auto;
         color: #ffffff;
-        font-size: 10px;
+        font-size: 9px;
     }
     .firstflipcardinner {
         position: relative;
@@ -990,7 +992,7 @@ h1{
     }
     .chamonatvalispic{
         width: 100%;
-        height: 180px;
+        height: 160px;
     }
     .chamonatvalispic img{
         width: 100%;
@@ -1012,8 +1014,8 @@ h1{
         margin-top: 50px;
     }
     .innervaluefoto{
-        width: 120px;
-        height: 230px;
+        width: 135px;
+        height: 220px;
     }
     .innervaluefoto img{
         width: 100%;
@@ -1120,15 +1122,15 @@ h1{
         height: 30px;
     }
     .searchi{
-        height: 40px;
+        height: 20px;
         display: flex;
         position: relative;
         border-bottom: none;
     }
     .searchbuttoni{
-        width: 70px;
-        height: 30px;
-        background-color: orangered;
+        width: 20px;
+        height: 10px;
+        background-color: #c3c3c3c3;
         border-radius: 20px;
         position: absolute;
         display: flex;
@@ -1138,6 +1140,7 @@ h1{
     .fa-magnifying-glass{
         align-self: center;
         margin: 0 auto;
+        font-size: 6px;
     }
     .footing{
         width: 410px;
@@ -1149,10 +1152,11 @@ h1{
         border-top: solid black 1px;
     }
     .footericon{
-        width: 98%;
+        width: 96%;
         height: 50px;
         /* margin-left: 15px; */
         display: flex;
+        margin: 0 auto;
         justify-content: space-between;
         /* flex-wrap: wrap; */
     }

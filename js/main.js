@@ -11,14 +11,14 @@ $('.firstsldier').owlCarousel({
 $('.secondslider').owlCarousel({
     items:3,
     loop:true,
-    margin:104,
+    margin:60,
     merge:true,
     autoplay:true,
     autoplayTimeout:2000,
     autoplayHoverPause:true,
     responsive:{
         415:{
-            items:4
+            items:3.5
         },
         1000:{
             items:3
